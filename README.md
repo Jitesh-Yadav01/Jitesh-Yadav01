@@ -22,5 +22,5 @@
 ​🤝 Let's Connect!
 ​I'm always open to connecting with fellow developers, students, and professionals. Feel free to reach out!
 ​<p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jitesh-yadav-904163376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
 </p>
