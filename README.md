@@ -22,8 +22,8 @@
 
 ​📊 My GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=radiantclasses155-cmyk&show_icons=true&theme=radical" alt="Jitesh's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radiantclasses155-cmyk&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jitesh-Yadav01&show_icons=true&theme=radical" alt="Jitesh's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitesh-Yadav01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ​🤝 Let's Connect!
