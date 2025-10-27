@@ -35,6 +35,10 @@
 </p>
 
 ---
+[![An image of @Jitesh-Yadav01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Jitesh-Yadav01)](https://holopin.io/@Jitesh-Yadav01)
+
+
+
 
 ### 📊 GitHub Stats & Streaks
 <p align="center">
