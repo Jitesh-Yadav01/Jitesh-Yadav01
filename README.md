@@ -39,12 +39,10 @@
 
 
 
-
 ### 📊 GitHub Stats & Streaks
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jitesh-Yadav01&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Jitesh-Yadav01&theme=tokyonight" alt="streak" height="160"/>
-</p>
+[![@Jitesh-Yadav01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jitesh-Yadav01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jitesh-Yadav01&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
