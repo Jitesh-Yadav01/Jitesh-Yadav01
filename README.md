@@ -54,8 +54,10 @@
 ---
 
 ### 📈 Contribution Graph
-[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jitesh-Yadav01&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<!-- [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jitesh-Yadav01&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitesh-Yadav01&theme=tokyo-night" alt="activity graph" />
+</p>
 ---
 
 
