@@ -10,7 +10,7 @@
 <h3 align="center">A passionate developer and tech enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jitesh-Yadav01t&label=Profile%20views&color=0e75b6&style=flat" alt="Jitesh-Yadav01" />
+  <img src="https://komarev.com/ghpvc/?username=Jitesh-Yadav01&label=Profile%20views&color=0e75b6&style=flat" alt="Jitesh-Yadav01" />
 </p>
 
 - 🌱 I’m currently learning **Full Stack Development, Data Structures, and Algorithms**  
