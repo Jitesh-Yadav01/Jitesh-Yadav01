@@ -39,10 +39,6 @@
 
 
 
-### 📊 GitHub Stats & Streaks
-[![@Jitesh-Yadav01's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jitesh-Yadav01&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak]([https://streak-stats.demolab.com](https://radiantclasses155-4390s-projects.vercel.app)/?user=Jitesh-Yadav01&theme=radical)](https://git.io/streak-stats)
-
 
 ---
 
@@ -53,12 +49,7 @@
 
 ---
 
-### 📈 Contribution Graph
-<-- [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jitesh-Yadav01&theme=github)] -->
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitesh-Yadav01&theme=tokyo-night" alt="activity graph" />
-</p> -->
----
+
 
 
 ### 📫 Let's Connect!
