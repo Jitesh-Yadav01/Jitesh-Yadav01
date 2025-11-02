@@ -43,11 +43,11 @@
 ---
 
 ### 📊 GitHub Stats & Streaks
-<--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jitesh-Yadav01&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Jitesh-Yadav01&theme=tokyonight" alt="streak" height="160"/>
 </p>
--->
+
 ---
 
 ### 📚 Top Languages
