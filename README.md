@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats-seven-iota-51.vercel.app/api?username=Jitesh-Yadav01&show_icons=true&theme=transparent&hide_border=true" alt="Top Languages" />
   <br/>
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=ayushmishra-18&theme=blue-green&hide_border=false)
+  ![](https://nirzak-streak-stats.vercel.app/?user=Jitesh-Yadav01&theme=blue-green&hide_border=false)
 </div>
 
 ### 📈 Contribution Graph
@@ -87,4 +87,4 @@
   </a>
 </div>
 
-  <img src="_.gif" width="780" />
+  <img src="_.gif" width="980" />
