@@ -74,25 +74,17 @@
 
 ---
 
+<div align="center">
+  <h3>"If you can only do one thing, hone it to perfection.<br>Hone it to the utmost limit."</h3>
+  
+  <p>Let's build something legendery.</p>
 
-<div align="center" style="margin:2rem 0;">
-  <div style="background:linear-gradient(135deg,#111827,#0f172a); border:1px solid rgba(148,163,184,0.3); border-radius:1.4rem; padding:2rem; box-shadow:0 30px 65px rgba(15,23,42,0.6); color:#f8fbff; max-width:900px; width:100%;">
-    <p style="font-size:1.2rem; margin-bottom:1rem; font-weight:600;">
-      "If you can only do one thing, hone it to perfection.<br/>Hone it to the utmost limit."
-    </p>
-    <div style="display:flex; flex-wrap:wrap; gap:1.5rem; align-items:center; justify-content:center;">
-      <div style="flex:1; min-width:220px;">
-        <p style="font-size:1rem; margin-bottom:0.5rem; color:#c2c8ff;">Let’s build something legendary.</p>
-        
-        <a href="https://linkedin.com/in/jitesh-yadav-904163376" target="blank" style="display:inline-flex; align-items:center; justify-content:center; gap:0.4rem; padding:0.65rem 1.4rem; background:#0e75b6; color:#fff; border-radius:999px; text-decoration:none; font-weight:600; box-shadow:0 15px 30px rgba(14,117,182,0.45);">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="18" width="18" />
-          Connect on LinkedIn
-        </a>
-      </div>
-      <div style="flex:0 0 200px; text-align:center;">
-        <img src="_.gif" alt="Spark" width="180" style="border-radius:1rem; border:2px solid rgba(255,255,255,0.3); box-shadow:0 25px 45px rgba(15,23,42,0.75);" />
-        <p style="margin-top:0.5rem; font-size:0.9rem; color:#9aa5c8;">Current vibe: charging creative circuits.</p>
-      </div>
-    </div>
-  </div>
+  <a href="https://www.linkedin.com/in/jitesh-yadav01">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:radiantclasses155@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
+
+  <img src="_.gif" width="780" />
