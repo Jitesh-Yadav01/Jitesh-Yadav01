@@ -13,8 +13,7 @@
 <h1 align="center">⚡ Jittu Rao ⚡</h1>
 <h3 align="center">A passionate developer and tech enthusiast</h3>
 
---
-
+---
 
 ## 🌩️ About Me
 
@@ -87,4 +86,4 @@
   </a>
 </div>
 
-  <img src="_.gif" width="980" />
+  <img src="_.gif" width="1080" />
